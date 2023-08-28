@@ -21,4 +21,4 @@ mvn archetype:generate -DgroupId=br.com.senai -DartifactId=agencia -DarchetypeAr
     Ex.: git@github.com:gleisosantos/agencia.git
 
 ## Subir o projeto para GitHub 
-    git push -u origini main (ou branch atual)
+    git push -u origin main (ou branch atual)
